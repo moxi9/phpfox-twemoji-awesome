@@ -1,0 +1,18 @@
+{
+	"id": "PHPfox_Twemoji_Awesome",
+	"name": "Twemoji Awesome",
+	"version": "1.0",
+	"icon": "",
+	"settings": {
+		"twemoji_selectors": {
+			"info": "CSS Selectors",
+			"value": ".panel_rows_preview, .mail_text, .activity_feed_content_status, .comment_mini_text, .item_content, .item_view_content, .activity_feed_content_display, .forum_mini_post ._c",
+			"js_variable": true
+		}
+	},
+	"credits": {
+		"Elle Kasai": "https://github.com/ellekasai/twemoji-awesome",
+		"Twitter": "http://twitter.github.io/twemoji/",
+		"linyows": "https://github.com/linyows/jquery-emoji"
+	}
+}
