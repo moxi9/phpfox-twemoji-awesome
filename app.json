@@ -2,7 +2,7 @@
 	"id": "PHPfox_Twemoji_Awesome",
 	"name": "Twemoji Awesome",
 	"version": "1.0",
-	"icon": "",
+	"icon": "//d2h79mkp7etn4r.cloudfront.net/icon/2015/07/3acabdc67643dafa5af9f5b83aea419c.png",
 	"settings": {
 		"twemoji_selectors": {
 			"info": "CSS Selectors",
